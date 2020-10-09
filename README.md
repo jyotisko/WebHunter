@@ -20,3 +20,6 @@ I have include two wordlists. One for subdomain and one for directories. You can
 Now once you have done the above steps, run the tool using the command: `python webhunter.py`
 
 Now use it, its very easy to use :)
+
+# Facing Issues?
+Just post them in the issues tab and I will help as soon as possible :)
