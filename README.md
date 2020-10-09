@@ -8,6 +8,10 @@ WebHunter Project. Directory Busting made easy!
 # Made for Linux, working for windows. Windows version will be launched soon.
 I am working for the windows version and many other features too! Please wait and I will soon add more features. It also works only for python2. Will be fixed soon :)
 
+# Requirements
+- [x] Python 2
+- [x] Linux OS (windows version coming soon)
+
 # Usage
 WebHunter makes directory busting and sub-domain hunting easy. Its very easy to use. 
 
