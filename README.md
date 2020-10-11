@@ -5,7 +5,7 @@ WebHunter Project. Directory Busting made easy!
 # For legal use
 ***Please dont use it for any illegal purposes. I will not be responsible for the damage you may cause.***
 
-# Made for Linux, working for windows. Windows version will be launched soon.
+# Made for Linux, partially work for windows. Windows version will be launched soon.
 I am working for the windows version and many other features too! Please wait and I will soon add more features. It also works only for python2. Will be fixed soon :)
 
 # Requirements
@@ -26,4 +26,4 @@ Now once you have done the above steps, run the tool using the command: `python 
 Now use it, its very easy to use :)
 
 # Facing Issues?
-Just post them in the issues tab and I will help as soon as possible :)
+Just post them in the issues tab here: https://github.com/jyotisko/WebHunter/issues. If I did not reply within 72hours, mail me here: jyotisko2006@gmail.com
