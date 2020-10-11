@@ -24,6 +24,7 @@ I have include two wordlists. One for subdomain and one for directories. You can
 Now once you have done the above steps, run the tool using the command: `python webhunter.py`
 
 Now use it, its very easy to use :)
+This is a wordlist attack. The speed of completion will depend upon the ***length of the wordlist*** and ***your internet speed.***
 
 # Facing Issues?
 Just post them in the issues tab here: https://github.com/jyotisko/WebHunter/issues. If I did not reply within 72hours, mail me here: jyotisko2006@gmail.com
