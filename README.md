@@ -44,4 +44,4 @@ Just post them in the issues tab here: https://github.com/jyotisko/WebHunter/iss
 # Updates!
 ### 1. Now works with both python versions! (python 2 qnd python 3) 
 
-### 2. Exception handlings improved to allow user understand the what going wrong
+### 2. Exception handlings improved to allow user understand what's going wrong
