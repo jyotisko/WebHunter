@@ -42,5 +42,6 @@ This is a wordlist attack. The speed of completion will depend upon the ***lengt
 Just post them in the issues tab here: https://github.com/jyotisko/WebHunter/issues. If I did not reply within 72hours, mail me here: jyotisko2006@gmail.com
 
 # Updates!
-###1. Now works with both python versions! (python 2 qnd python 3)
-###2. Exception handlings improved to allow user understand the what going wrong
+### 1. Now works with both python versions! (python 2 qnd python 3) 
+
+### 2. Exception handlings improved to allow user understand the what going wrong
