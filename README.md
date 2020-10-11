@@ -1,3 +1,6 @@
+# Hello!
+Hello ***hackers*** and ***pentesters***, this tool will really help you during your pen tests and it will be helpful to have on your tool belt! 
+
 # WebHunter
 WebHunter Project. Directory Busting made easy!
 
